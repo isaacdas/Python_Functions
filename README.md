@@ -2,5 +2,5 @@
 
 This includes:
 
-Calculator App
+Calculator App, 
 Shopping List
